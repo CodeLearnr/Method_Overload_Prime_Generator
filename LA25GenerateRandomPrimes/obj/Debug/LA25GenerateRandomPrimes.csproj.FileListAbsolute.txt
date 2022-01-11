@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\bin\Debug\LA25GenerateRandomPrimes.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\bin\Debug\LA25GenerateRandomPrimes.exe
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\bin\Debug\LA25GenerateRandomPrimes.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\obj\Debug\LA25GenerateRandomPrimes.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\obj\Debug\LA25GenerateRandomPrimes.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\obj\Debug\LA25GenerateRandomPrimes.exe
+D:\All files\Bow Valley\SODV9104\HW\LA25GenerateRandomPrimes\obj\Debug\LA25GenerateRandomPrimes.pdb

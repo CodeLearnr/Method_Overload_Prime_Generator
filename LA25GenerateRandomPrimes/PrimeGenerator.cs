@@ -28,11 +28,8 @@ namespace LA25GenerateRandomPrimes
                         isPrime = false;
                         break;
                     }
-                    for(int j =2; j*j<x; j++)
-                    {
-                        if (x % i != 0)
+                    else if (x % i != 0)
                         isPrime = true;
-                    }
                 }
                 
             } while (isPrime == false);
